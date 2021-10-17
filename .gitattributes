@@ -1,0 +1,5 @@
+[attr]lfs -text filter=lfs diff=lfs merge=lfs
+
+*.jpg lfs
+*.jpeg lfs
+*.png lfs
